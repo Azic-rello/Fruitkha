@@ -8,7 +8,7 @@ import Carousel from "../components/Carousel";
 
 const Home = () => {
   return (
-    <div>
+    <div> 
       <Hero />
       <Card />
       <Products />
