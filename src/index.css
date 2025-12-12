@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+.carusel-btn{
+    width: 120px;
+    height: 40px;
+    background: #f28123;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.carusel-btn:hover{
+    background: #111;
+    color: #f28123;
+}
