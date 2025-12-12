@@ -3,8 +3,10 @@ import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import Card from "../components/Card";
 import Products from "../components/Products";
+import Info from "../components/Info";
 import OurNews from "../components/OurNews";
 import Carousel from "../components/Carousel";
+
 
 const Home = () => {
   return (
@@ -12,6 +14,7 @@ const Home = () => {
       <Hero />
       <Card />
       <Products />
+      <Info/>
       <OurNews />
       <Carousel />
       <Footer />
