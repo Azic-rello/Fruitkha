@@ -96,7 +96,7 @@ export default function TestimonialCarousel() {
         <div className="w-full lg:w-1/2 my-auto px-2 sm:px-0">
           <h6 className="opacity-60">Since Year 2009</h6>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl py-4 font-bold leading-tight">
-            We are <span className="text-[#f28123]">Fruitkha</span>
+            Biz are <span className="text-[#f28123]">Fruitkha</span>
           </h1>
           <p className="text-[15px] sm:text-[16px] opacity-80 w-full lg:w-[75%]">
             Etiam vulputate ut augue vel sodales. In sollicitudin neque et massa
